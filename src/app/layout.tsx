@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "My App",
-  description: "Next.js app with Supabase",
+  title: "Multiply",
+  description: "Multiply — powered by Next.js and Supabase",
 };
 
 export default function RootLayout({
